@@ -48,6 +48,7 @@ int main()
 
       auto s = hasData(std::string(data));
       if (s != "") {
+      	//std::cout<<s<<endl;
       	
         auto j = json::parse(s);
 
