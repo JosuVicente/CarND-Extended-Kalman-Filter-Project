@@ -1,9 +1,9 @@
 [//]: # (Image References)
 
-[image1]: ./img/Dataset 1.png "Dataset 1"
-[image2]: ./img/Dataset 1b.png "Dataset 1b"
-[image3]: ./img/Dataset 1c.png "Dataset 1c"
-[image4]: ./img/Dataset 2.png "Dataset 2"
+[image1]: ./img/Dataset1.png "Dataset 1"
+[image2]: ./img/Dataset1b.png "Dataset 1b"
+[image3]: ./img/Dataset1c.png "Dataset 1c"
+[image4]: ./img/Dataset2.png "Dataset 2"
 
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
